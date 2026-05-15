@@ -1,0 +1,33 @@
+
+
+# ==========================================
+# NHÓM 2: CÁC FILE BÁO CÁO, TÀI LIỆU CÁ NHÂN
+# ==========================================
+# Dùng dấu * để chặn TOÀN BỘ các file có đuôi này (Không cần ghi đích danh tên file)
+*.docx
+*.pdf
+*.xlsx
+*.txt
+
+# ==========================================
+# NHÓM 3: CÁC FILE DỮ LIỆU CSV
+# ==========================================
+# Cậu muốn file CSV nào được lên mạng thì XÓA dòng đó đi
+Iriscut.csv
+Irisfull.csv
+
+# ==========================================
+# NHÓM 4: CÁC FILE MÃ NGUỒN PYTHON
+# ==========================================
+# Cậu muốn file code nào được lên mạng thì XÓA dòng đó đi
+
+pca.py
+
+test_engine.py
+test_enginenew.py
+
+
+# ==========================================
+# NHÓM 5: THƯ MỤC ẨN CỦA PYTHON (LUÔN PHẢI CHẶN)
+# ==========================================
+__pycache__/
